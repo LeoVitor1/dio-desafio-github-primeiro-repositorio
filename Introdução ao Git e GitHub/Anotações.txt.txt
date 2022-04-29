@@ -5,7 +5,7 @@ https://git-scm.com/download/win
 - Git clone : clona um repositório 
 - Git status: mostra o status da branch
 - cd + (o nome do repositório = pasta) para entrar no local desejado para armazenar
-- Git add . ou Git add -a: adicionar conteúdo ao controle de versão
+- Git add . ou Git add -a: atualiza conteúdo para poder subir ao Github
 - Git commit -m "comentar o que é": Atualizar a branch para subir ao GitHub
 - Git push origin main:subir arquivos ok para o GitHub 
 
